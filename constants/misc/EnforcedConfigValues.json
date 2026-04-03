@@ -36,6 +36,21 @@
     {
       "enforcedValues": [
         {
+          "path": "fishing.trophyFishing.chatMessages.duplicateHider",
+          "value": false
+        }
+      ],
+      "affectedVersion": "7.0.0",
+      "affectedMinecraftVersions": [
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
           "path": "inventory.experimentationTable.superpairs.clickedItemsVisible.enabled",
           "value": false
         }
